@@ -1,3 +1,26 @@
+h1{
+  text-align: center
+}
+html{
+  border: 10px solid white;
+}
+
 body {
-font-family: sans-serif;
+  font-family: sans-serif;
+  text-align: center;
+  background: black;
+  color: rgb(185, 13, 13);
+  padding-bottom: 100% ;
+}
+a {
+  color: white;
+}
+a:link { text-decoration: none; color: white; }
+a:hover { color: red; }
+a:visited { color: aqua; }
+
+nav{
+  color: white;
+  border:blue;
+  padding: 10px;
 }
