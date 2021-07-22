@@ -1,16 +1,25 @@
+html{
+  border: solid #ffffff 10px
+}
+
 h1{
   text-align: center
 }
-html{
-  border: 10px solid white;
-}
+
 
 body {
   font-family: sans-serif;
   text-align: center;
-  background: black;
+  background-color: black;
   color: rgb(185, 13, 13);
-  padding-bottom: 100% ;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1240px;
+  min-width: 256;
+  padding-top: 8px;
+  padding-bottom: 100%;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 a {
   color: white;
